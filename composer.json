@@ -1,0 +1,12 @@
+{
+    "name": "benbanfa/exclude-composer-assets",
+    "description": "benbanfa/exclude-composer-assets",
+    "replace": {
+        "bower-asset/bootstrap": "*",
+        "bower-asset/inputmask": "*",
+        "bower-asset/jquery": "*",
+        "bower-asset/punycode": "*",
+        "bower-asset/typeahead.js": "*",
+        "bower-asset/yii2-pjax": "*"
+    }
+}

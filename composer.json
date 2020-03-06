@@ -9,6 +9,7 @@
         "bower-asset/typeahead.js": "*",
         "bower-asset/yii2-pjax": "*",
         "bower-asset/js-cookie": "*",
-        "bower-asset/layer": "*"
+        "bower-asset/layer": "*",
+        "bower-asset/select2": "*"
     }
 }
